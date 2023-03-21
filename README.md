@@ -2,7 +2,7 @@ WEB前端老罗是一位拥有多年web前端开发经验、管理经验、教�
 
 目前在某名企任职WEB前端技术教官。
 
-加我微信可提供开发、技术咨询、答疑、直播讲座等服务。
+加我微信可提供程序开发、解决bug、技术咨询、答疑、公开课直播讲座等服务。
 
 ![微信号和公众号](https://www.imqd.cn/wp-content/themes/imqd/images/ercode.png)
 
