@@ -21,8 +21,7 @@ WEB前端老罗是一位拥有多年web前端开发经验、管理经验、教�
 
 2、gmail:imqdcn@gmail.com
 
- <div align="center">
-    
+<div align="center">
     <a href="https://space.bilibili.com/508438204/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/imqdcn?type=blog"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/imqd"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
@@ -30,7 +29,7 @@ WEB前端老罗是一位拥有多年web前端开发经验、管理经验、教�
     <a href="https://juejin.cn/user/3257207932075799"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=imqdcn&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
     -->
-  </div>
+</div>
 
 <!---
 imqdcn/imqdcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
